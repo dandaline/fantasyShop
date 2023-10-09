@@ -1,4 +1,4 @@
-package aop_beleg_2_fantasy;
+package fantasyShop;
 
 public abstract class Item {
 	private Integer price;

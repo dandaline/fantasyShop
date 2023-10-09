@@ -1,4 +1,4 @@
-package aop_beleg_2_fantasy;
+package fantasyShop;
 
 import java.util.ArrayList;
 import java.util.List;
